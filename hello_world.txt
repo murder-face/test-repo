@@ -1,2 +1,7 @@
 print("Hello World!!!");
 hi;
+privet mu dear friend;
+priv;
+priva;
+=======
+hi;
